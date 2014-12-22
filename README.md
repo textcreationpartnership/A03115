@@ -36,9 +36,13 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-Popish pietie, or The first part of the historie of that horrible and barbarous conspiracie, commonl
+
+1. TO THE ILLVSTRIOVS AND MOST VERTVOVS PRINCESSE, THE LADY Elizabeth, onely daughter of the Kings most excellent Maieſtie.
+
 #####Body#####
-Popish pietie, or The first part of the historie of that horrible and barbarous conspiracie, commonl
+
+1. POPISH PIETY, OR The firſt part of the hiſtorie of that horrible and barbarous conſpiracie, commonly called the Powder treaſon.
+
 **Types of content**
 
   * There are 904 **verse** lines!
